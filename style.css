@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.my-text {
+    text-align: center;
+    font-size: 108px;
+    color: darkcyan;
+    font-family: sans-serif;
+    margin-top: 240px;
+}
+
